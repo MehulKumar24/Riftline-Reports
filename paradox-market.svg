@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Paradox market data exchange">
+  <defs>
+    <linearGradient id="bgB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D0A12"/>
+      <stop offset="100%" stop-color="#22182A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bgB)"/>
+  <g fill="#18121F" stroke="#FF7AA2" stroke-width="3">
+    <rect x="90" y="120" width="300" height="190" rx="14"/>
+    <rect x="450" y="120" width="300" height="190" rx="14"/>
+    <rect x="810" y="120" width="300" height="190" rx="14"/>
+  </g>
+  <g stroke="#FF3B6B" stroke-width="5" fill="none" opacity="0.95">
+    <path d="M130 460c90-40 150-70 210-50s110 65 190 58 120-86 210-95 140 35 250 25"/>
+    <path d="M130 520c90 28 140 45 210 32s100-70 190-72 130 54 210 48 150-52 250-46" opacity="0.6"/>
+  </g>
+  <text x="70" y="90" fill="#F5EEF8" font-family="Rajdhani, sans-serif" font-size="50" letter-spacing="2">PARADOX MARKET // PX-11</text>
+</svg>

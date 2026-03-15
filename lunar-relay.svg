@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Lunar relay timing anomaly">
+  <defs>
+    <linearGradient id="bgC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#120F18"/>
+      <stop offset="100%" stop-color="#09090C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bgC)"/>
+  <circle cx="930" cy="150" r="90" fill="#E7D5E9" opacity="0.9"/>
+  <g fill="#1E1726">
+    <rect x="0" y="540" width="1200" height="160"/>
+    <rect x="210" y="430" width="120" height="110"/>
+    <rect x="360" y="390" width="150" height="150"/>
+    <rect x="560" y="410" width="140" height="130"/>
+  </g>
+  <g stroke="#FF7AA2" stroke-width="4" fill="none">
+    <path d="M290 430v-110"/>
+    <path d="M435 390v-140"/>
+    <path d="M630 410v-180"/>
+    <path d="M290 320C420 220 530 210 630 230"/>
+  </g>
+  <g stroke="#FF3B6B" stroke-width="3" fill="none" opacity="0.85">
+    <path d="M630 230c70-48 140-60 300-36"/>
+    <path d="M290 320c-90 22-160 45-220 95"/>
+  </g>
+  <text x="70" y="90" fill="#F5EEF8" font-family="Rajdhani, sans-serif" font-size="50" letter-spacing="2">LUNAR RELAY ECHO</text>
+</svg>

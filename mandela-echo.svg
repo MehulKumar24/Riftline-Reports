@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Mandela effect multiverse echo scene">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A090D"/>
+      <stop offset="100%" stop-color="#211A29"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg3)"/>
+  <path d="M0 610h1200" stroke="#3A2A43" stroke-width="4"/>
+  <path d="M600 160v430" stroke="#FF3B6B" stroke-width="6"/>
+  <g stroke="#FF7AA2" stroke-width="4" fill="none" opacity="0.95">
+    <path d="M600 210C490 280 460 420 390 540"/>
+    <path d="M600 210C710 280 740 420 810 540"/>
+    <path d="M390 540h420"/>
+  </g>
+  <g fill="#FF3B6B" opacity="0.9">
+    <circle cx="390" cy="540" r="10"/>
+    <circle cx="810" cy="540" r="10"/>
+    <circle cx="600" cy="210" r="10"/>
+  </g>
+  <g fill="#F5EEF8" font-family="Rajdhani, sans-serif">
+    <text x="70" y="90" font-size="50" letter-spacing="2">MANDELA ECHO MAP</text>
+    <text x="190" y="635" font-size="28" opacity="0.82">BRANCH A</text>
+    <text x="920" y="635" font-size="28" opacity="0.82">BRANCH B</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Clocktower district time slip">
+  <defs>
+    <linearGradient id="bgE" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#110E16"/>
+      <stop offset="100%" stop-color="#09090C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bgE)"/>
+  <rect x="0" y="560" width="1200" height="140" fill="#1A1520"/>
+  <rect x="520" y="170" width="180" height="390" fill="#22192B"/>
+  <circle cx="610" cy="250" r="64" fill="none" stroke="#FF7AA2" stroke-width="6"/>
+  <path d="M610 250v-30M610 250l25 20" stroke="#FF3B6B" stroke-width="5" stroke-linecap="round"/>
+  <g stroke="#FF7AA2" stroke-width="3" fill="none" opacity="0.85">
+    <path d="M340 560c80-120 130-170 270-160"/>
+    <path d="M880 560c-80-120-130-170-270-160"/>
+  </g>
+  <g fill="#FF3B6B" opacity="0.3">
+    <ellipse cx="400" cy="455" rx="80" ry="24"/>
+    <ellipse cx="820" cy="455" rx="80" ry="24"/>
+  </g>
+  <text x="70" y="90" fill="#F5EEF8" font-family="Rajdhani, sans-serif" font-size="50" letter-spacing="2">CLOCKTOWER TIME SLIP</text>
+</svg>

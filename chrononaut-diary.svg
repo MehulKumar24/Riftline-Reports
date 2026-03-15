@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Chrononaut diary and memory drift">
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A090D"/>
+      <stop offset="100%" stop-color="#211A29"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bgA)"/>
+  <rect x="250" y="120" width="700" height="460" rx="20" fill="#16111C" stroke="#FF7AA2" stroke-width="4"/>
+  <path d="M600 120v460" stroke="#3A2A43" stroke-width="4"/>
+  <g stroke="#FF3B6B" stroke-width="4">
+    <path d="M320 210h210M320 270h210M320 330h210M320 390h210M320 450h210"/>
+    <path d="M670 210h210M670 270h210M670 330h210M670 390h210M670 450h210"/>
+  </g>
+  <g fill="#FF7AA2">
+    <circle cx="460" cy="540" r="12"/>
+    <circle cx="740" cy="540" r="12"/>
+  </g>
+  <text x="70" y="90" fill="#F5EEF8" font-family="Rajdhani, sans-serif" font-size="50" letter-spacing="2">CHRONAUT FIELD DIARY</text>
+</svg>
